@@ -1,0 +1,21 @@
+{
+  "name": "manual-storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@storybook/react": "^6.4.19",
+    "babel-loader": "^8.2.3"
+  }
+}
